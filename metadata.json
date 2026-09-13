@@ -1,0 +1,6 @@
+{
+  "name": "My Playlist",
+  "description": "Create, customize, and share personal music playlists with friends for seamless listening anytime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
